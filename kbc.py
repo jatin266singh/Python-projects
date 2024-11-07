@@ -2,7 +2,7 @@ name=input("Enter your name ")
 print("Welcome to KBC ",name)
 question=[
         ["what is your name ","Mayank","Shubham","Aman","Rishabh",4],
-        ["what is your petname ","kutta","kutti","gu","tomy",3],
+        ["what is your petname ","tomy","mylo","simba","buchu",3],
         ["what is your name ","Mayank","Shubham","Aman","Rishabh",3],
         ["what is your name ","Mayank","Shubham","Aman","Rishabh",1],
         ["what is your name ","Mayank","Shubham","Aman","Rishabh",1],
